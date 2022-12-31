@@ -5,5 +5,8 @@ def dog ():
     pass
 def animal():
     pass
+def Printing_message():
+    print("I am Pranay Satpute")
+
 
 
